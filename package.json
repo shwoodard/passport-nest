@@ -6,6 +6,12 @@
     "type": "Apache-2.0",
     "url": "http://www.apache.org/licenses/LICENSE-2.0"
   } ],
+  "keywords": [
+    "passport",
+    "nest",
+    "auth",
+    "authentication"
+  ],
   "main": "./lib/passport-nest",
   "dependencies": {
     "passport-oauth": "1.x.x",
