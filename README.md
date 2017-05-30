@@ -43,6 +43,6 @@ See [CONTRIBUTING](CONTRIBUTING.md) for more information on how to get started.
 
 Apache 2.0 - See [LICENSE](LICENSE) for more information.
 
-[portal]: https://developer.nest.com/clients
+[portal]: https://console.developers.nest.com
 [auth-docs]: https://developer.nest.com/documentation/cloud/authorization-overview
 [examples]: https://github.com/nestlabs/passport-nest/tree/master/examples
